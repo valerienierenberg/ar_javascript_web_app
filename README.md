@@ -16,6 +16,7 @@ For this project, I created an augmented reality javascript web app using [ar.js
 4. Scan this bed marker:
 ![Bed Icon](https://github.com/valerienierenberg/ar_javascript_web_app/blob/main/pattern-bedicon-image.png?raw=true)
 
+5. See the green Augmented Reality 3D cube!
 
 
 ## Road Map
